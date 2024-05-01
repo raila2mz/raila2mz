@@ -1,16 +1,16 @@
-### Hi there 👋
+### bem vindo ao meu perfil!
 
-<!--
-**raila2mz/raila2mz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Raila drago lotto
 
-Here are some ideas to get you started:
+- estou estudando na [Alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organização e compartilhamento dos projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 
+
+-railadragolotto123@gmail.com
+
+-@raila_lotto
+
+
+![](https://media1.tenor.com/m/aU-t8N-YtB0AAAAC/halo.gif)
